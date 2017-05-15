@@ -6,13 +6,14 @@
 */
 @charset "UTF-8";
 .b-checkbox {
-  line-height: 1;
+  position: relative;
 }
 
 .b-checkbox label {
-  position: relative;
   padding-left: 5px;
   cursor: pointer;
+  font-size: 1rem;
+  line-height: 1;
 }
 
 .b-checkbox label::before {
@@ -21,7 +22,7 @@
   width: 17px;
   height: 17px;
   left: 0;
-  margin-left: -17px;
+  top: 1px;
   border: 1px solid #dbdbdb;
   border-radius: 3px;
   background-color: #fff;
@@ -32,11 +33,9 @@
   position: absolute;
   width: 16px;
   height: 16px;
-  left: 0;
-  top: 5px;
-  margin-left: -15px;
+  left: 3px;
+  top: 3px;
   font-size: 12px;
-  line-height: 1;
   color: #363636;
 }
 
@@ -60,18 +59,6 @@
   content: "";
 }
 
-.b-checkbox input[type="checkbox"]:indeterminate + label::after,
-.b-checkbox input[type="radio"]:indeterminate + label::after {
-  display: block;
-  content: "";
-  width: 10px;
-  height: 3px;
-  background-color: #555555;
-  border-radius: 2px;
-  margin-left: -16.5px;
-  margin-top: 7px;
-}
-
 .b-checkbox input[type="checkbox"]:disabled,
 .b-checkbox input[type="radio"]:disabled {
   cursor: not-allowed;
@@ -93,7 +80,12 @@
 }
 
 .b-checkbox.is-inline {
-  margin-top: 0;
+  display: inline-block;
+  font-weight: normal;
+}
+
+.b-checkbox.is-inline + .is-inline {
+  margin-left: 10px;
 }
 
 .is-primary input[type="checkbox"]:checked + label::before {

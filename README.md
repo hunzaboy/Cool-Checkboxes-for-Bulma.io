@@ -1,5 +1,8 @@
 # Cool Checkboxes for Bulma.io
 100% CSS based checkbox for <a href="http://bulma.io" target="_blank">Bulma.io</a>
 
+# How to use
+Include `bulma-radio-checkbox.css` or `bulma-radio-checkbox.min.css` from `dist/css` folder in your page and you are good to go.
+
 # Demo
-Click here for <a href="https://hunzaboy.github.io/Cool-Checkboxes-for-Bulma.io/">Demo and How to use.</a>
+Click here for <a href="https://hunzaboy.github.io/Cool-Checkboxes-for-Bulma.io/">Demo</a>

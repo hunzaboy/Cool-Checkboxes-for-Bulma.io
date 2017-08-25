@@ -6,3 +6,9 @@ Include `bulma-radio-checkbox.css` or `bulma-radio-checkbox.min.css` from `dist/
 
 # Demo
 Click here for <a href="https://hunzaboy.github.io/Cool-Checkboxes-for-Bulma.io/">Demo</a>
+
+<hr>
+
+Check out my new project. You might be interested <a href="https://github.com/hunzaboy/CSS-Checkboxes-Huge-Library">A Huge library of CSS Checkboxes</a>
+
+<img src="https://hunzaboy.github.io/CSS-Checkboxes-Huge-Library/screen.png">

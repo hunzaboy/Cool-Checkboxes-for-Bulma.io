@@ -2,7 +2,7 @@
   "name": "Cool-Checkboxes-for-Bulma.io",
   "version": "1.0.0",
   "description": "Cool Checkboxes for Bulma.io",
-  "main": "dist/css/bulma-radio-checkbox.min.css",
+  "main": "dist/css/bulma-radio-checkbox.css",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

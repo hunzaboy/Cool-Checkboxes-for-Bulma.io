@@ -2,6 +2,9 @@
 100% CSS based checkbox for <a href="http://bulma.io" target="_blank">Bulma.io</a>
 
 # How to use
+
+`npm install cool-checkboxes-for-bulma.io`
+
 Include `bulma-radio-checkbox.css` or `bulma-radio-checkbox.min.css` from `dist/css` folder in your page and you are good to go.
 
 # Demo

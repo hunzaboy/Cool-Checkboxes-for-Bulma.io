@@ -5,6 +5,8 @@
 
 `npm install cool-checkboxes-for-bulma.io`
 
+or
+
 Include `bulma-radio-checkbox.css` or `bulma-radio-checkbox.min.css` from `dist/css` folder in your page and you are good to go.
 
 # Demo

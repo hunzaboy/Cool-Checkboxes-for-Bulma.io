@@ -1,5 +1,5 @@
 {
-  "name": "Cool-Checkboxes-for-Bulma.io",
+  "name": "cool-checkboxes-for-bulma.io",
   "version": "1.0.0",
   "description": "Cool Checkboxes for Bulma.io",
   "main": "dist/css/bulma-radio-checkbox.css",
@@ -22,5 +22,11 @@
     "gulp-sass": "^2.2.0",
     "gulp-sourcemaps": "^2.2.0",
     "rename": "^1.0.3"
-  }
+  },
+  "dependencies": {},
+  "keywords": [
+    "checkbox",
+    "bulma",
+    "radio"
+  ]
 }

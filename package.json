@@ -10,7 +10,7 @@
   "author": "Aslam Shah",
   "license": "MIT",
   "devDependencies": {
-    "bulma": "^0.4.1",
+    "bulma": "^0.4.4",
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^3.1.1",
     "gulp-connect": "^2.3.1",

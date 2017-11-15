@@ -1,6 +1,6 @@
 {
   "name": "cool-checkboxes-for-bulma.io",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Cool Checkboxes for Bulma.io",
   "main": "dist/css/bulma-radio-checkbox.css",
   "scripts": {

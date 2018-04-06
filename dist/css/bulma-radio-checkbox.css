@@ -55,8 +55,7 @@
 
 .b-checkbox input[type="checkbox"]:checked + label::after,
 .b-checkbox input[type="radio"]:checked + label::after {
-  font-family: "FontAwesome";
-  content: "";
+  content: "✔";
 }
 
 .b-checkbox input[type="checkbox"]:disabled,
